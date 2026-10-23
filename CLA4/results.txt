@@ -1,0 +1,6 @@
+Training rows: 712
+Testing/unseen rows: 179
+Accuracy: 0.8045
+Online prediction for PassengerId 566: 0
+Batch predictions generated: 20 rows
+Streaming predictions generated: 10 rows
